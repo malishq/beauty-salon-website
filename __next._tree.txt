@@ -1,0 +1,9 @@
+:HL["/beauty-salon-website/_next/static/chunks/0mllcgpx7u-rl.css","style"]
+:HL["/beauty-salon-website/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/beauty-salon-website/_next/static/media/01d917b2efda642a-s.p.0y1w0k24nk0rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/beauty-salon-website/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/beauty-salon-website/_next/static/media/932d3869cac5e2f5-s.p.2cu8l7zf4s4ec.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/beauty-salon-website/_next/static/media/c50b0495a1ff0f08-s.p.2sla2yow9-9p_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/beauty-salon-website/_next/static/media/fdbf446d127afa2d-s.p.1xjn85gt7t6qs.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":128}]]
+0:{"b":"iHPfmm2uApes1-chTtEZ3","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
