@@ -23,11 +23,21 @@ Next.js 16 (статическая сборка), React 19, Tailwind CSS 4, GSAP
 
 ![Главный экран](docs/screens/desktop-hero.png)
 
+![Прайс](docs/screens/desktop-services.png)
+
+![Атлас оттенков и три базы](docs/screens/desktop-shades.png)
+
 ![Конструктор записи](docs/screens/booking-desktop.png)
+
+![Мастера](docs/screens/desktop-masters.png)
+
+![Как проходит визит](docs/screens/desktop-process.png)
+
+![Запись](docs/screens/desktop-contact.png)
 
 ![Мобильная версия](docs/screens/mobile-hero.png)
 
-Полные страницы: [desktop-full.png](docs/screens/desktop-full.png), [tablet-full.png](docs/screens/tablet-full.png), [mobile-full.png](docs/screens/mobile-full.png). Экран успеха формы: [form-success.png](docs/screens/form-success.png).
+Экран успеха формы: [form-success.png](docs/screens/form-success.png).
 
 ## Запуск
 
